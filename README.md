@@ -9,4 +9,4 @@ Palavra chaves:
 
 Projetos futuros
 - Possibilidade de buscar qualquer palavra
-
+- Integrar com telegram
