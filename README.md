@@ -6,3 +6,7 @@ Palavra chaves:
 
 -  WACC
 -  Taxa de remuneração regulatória
+
+Projetos futuros
+- Possibilidade de buscar qualquer palavra
+
